@@ -1,0 +1,50 @@
+
+body{
+    background-color:grey;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    color: white;
+}
+
+
+
+.container-fluid{
+    padding: 4% 10%;
+}
+
+.Heading{
+    font-family:'Montserrat';
+    font-size: 5rem;
+    color: white;
+    font-weight: bold;
+}
+
+.row{
+    margin: auto;
+    padding: 3% 10%;
+}
+
+.Player{
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+.player1{
+    color: black;
+}
+
+.player2{
+    color: black;
+
+}
+
+
+
+.col-sm-6{
+    margin: auto;
+}
